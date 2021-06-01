@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brandon404Error
 - 👀 I’m interested in ... Many things (things that are interesting)
-- 🌱 I’m currently learning ... C, C++, C#, Python, Asssembly, Etc
+- 🌱 I’m currently learning ... C, C++, C#, Python, Asssembly, Etc (many more.)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
